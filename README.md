@@ -27,4 +27,4 @@ I'm expanding my technical vocabulary as I grow my stack in Business Intelligenc
 
 ---
 
-[![LinkedIn]([[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/avril-merino-moreno-ba853531a/)](https://es.linkedin.com/in/avril-merino-moreno-ba853531a?trk=people-guest_people_search-card)](https://www.linkedin.com/in/avril-merino-moreno-ba853531a/)](https://www.linkedin.com/in/avril-merino-moreno-ba853531a/))
+[![LinkedIn]([![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avril-merino-moreno-ba853531a/))
