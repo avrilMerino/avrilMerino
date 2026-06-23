@@ -1,10 +1,10 @@
 Hi! I'm Avril.
 
-I'm a Data & BI Trainee. Feel free to browse my repositories — I'm learning, and these are projects I've built myself.
-
-Seeing a clean pipeline or a well-structured dashboard gives me a sense of calm that's hard to explain. Everything in its place.
-
+I'm a Data & BI Trainee. Feel free to browse my repositories!! 
+I'm learning, and these are projects I've built myself. 
 I'm expanding my technical vocabulary as I grow my stack in Business Intelligence.
+
+WELCOME!
 
 ---
 
