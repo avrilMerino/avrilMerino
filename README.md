@@ -1,6 +1,6 @@
 Hi! I'm Avril.
 
-I'm a Data & BI Trainee. Feel free to browse my repositories!! 
+I'm a Data & BI Trainee in Nter Tech Solutions. Feel free to browse my repositories!! 
 I'm learning, and these are projects I've built myself. 
 I'm expanding my technical vocabulary as I grow my stack in Business Intelligence.
 
